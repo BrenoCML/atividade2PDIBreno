@@ -8,7 +8,7 @@ O código implementou um filtro de nitidez em uma imagem utilizando máscaras de
 
 -----------------------------------------------------------------------------
 
-# **O que dá para notar no output do arquivo smoothingFilters.py:**
+## **O que dá para notar no output do arquivo smoothingFilters.py:**
 
 
 O Filtro de Suavização Média calculou a média dos valores dos pixels em uma vizinhança definida pelo tamanho do kernel. Cada pixel na imagem suavizada é substituído pela média dos valores dos pixels na vizinhança. Ele é eficaz para reduzir ruídos, mas suavizou detalhes na imagem, diminuiu a qualidade deles.
