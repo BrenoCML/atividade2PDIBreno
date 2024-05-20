@@ -40,6 +40,7 @@ def sharpness_mask_filter(image_path, kernel_size, alpha=1.5, beta=-0.5):
     # Exibe as imagens
     plt.show()
 
+
 # Caminho para a imagem de entrada
 image_path = 'livorno.jpg'
 
